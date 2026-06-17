@@ -2,6 +2,7 @@
 This project is based on stolen vehicle data and cleaning it to create a dashboard using Excel and I have used cards, slicers and graphs and by giving a connection we can access the data and in the end i have also given a summary for the insights i have collected through out the process of my Project.
 
 SUMMARY OF MY PROJECT
+
 1	🔴  Highest-Theft Region	Auckland leads with 1,638 thefts — 36.0% of all NZ vehicle thefts over the 6-month period.
 		
 2	📍  Highest Theft Rate	Gisborne has the highest theft rate at 337.8 thefts per 100,000 residents, despite having a smaller total count — indicating disproportionate risk relative to population.
