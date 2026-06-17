@@ -1,6 +1,11 @@
 # VEHICLE THEFT-ANALYSIS-DASHBOARD
 This project is based on stolen vehicle data and cleaning it to create a dashboard using Excel and I have used cards, slicers and graphs and by giving a connection we can access the data and in the end i have also given a summary for the insights i have collected through out the process of my Project.
 
+DASHBOARD:-
+
+<img width="1035" height="616" alt="Screenshot 2026-06-17 090628" src="https://github.com/user-attachments/assets/f0a0f930-e256-4827-864c-405dfa6c13f5" />
+
+
 SUMMARY OF MY PROJECT
 
 1	🔴  Highest-Theft Region	Auckland leads with 1,638 thefts — 36.0% of all NZ vehicle thefts over the 6-month period.
