@@ -15,10 +15,12 @@ Whether you're a data analyst, BI professional, or Excel enthusiast, this projec
 ## 📊 Dashboard Preview
 
 ### Interactive Dashboard
-![Vehicle Theft Dashboard](dashboard_preview.png)
+<img width="1035" height="616" alt="Screenshot 2026-06-17 090628" src="https://github.com/user-attachments/assets/bf36a381-10be-4618-a5fd-973707a5afc6" />
+
 
 ### Key Summary Points
-![Summary Points](summary_points.png)
+<img width="1010" height="577" alt="Screenshot 2026-06-17 085756" src="https://github.com/user-attachments/assets/75462e02-d4a3-4206-bf64-47d07c8ba518" />
+
 
 ---
 
@@ -117,12 +119,8 @@ Patrol resource planning should not focus solely on urban centres. Low-density r
 
 ## 👤 Author
 
-**[Your Name]**
+**[G Dhananjay Chauhan]**
 Data Analyst | Excel & Power BI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourusername)
-
 ---
 
 ## ⭐ If you found this useful...
